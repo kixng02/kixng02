@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ `ABOUT_ME.exe`
+## `ABOUT_ME.exe`
 
 ```python
 class MaliSanto:
@@ -44,7 +44,7 @@ me = MaliSanto()
 
 ---
 
-## 🛰️ `STATS_UPLINK.sys`
+## `STATS_UPLINK.sys`
 
 <div align="center">
 
@@ -56,7 +56,7 @@ me = MaliSanto()
 
 ---
 
-## 🔥 `STREAK_COUNTER.dll`
+## STREAK_COUNTER.dll`
 
 <div align="center">
 
@@ -66,7 +66,7 @@ me = MaliSanto()
 
 ---
 
-## 🌐 `CONTRIBUTION_MATRIX.3d`
+##  CONTRIBUTION_MATRIX.3d`
 
 <div align="center">
 
@@ -75,9 +75,9 @@ me = MaliSanto()
 
 ---
 
-## ⌨️ `TECH_STACK.json`
+##  `TECH_STACK.json`
 
-### 💻 Languages
+### Languages
 
 <div align="center">
 
@@ -91,7 +91,7 @@ me = MaliSanto()
 
 </div>
 
-### 🛠️ Frameworks & Libraries
+###  Frameworks & Libraries
 
 <div align="center">
 
@@ -110,7 +110,7 @@ me = MaliSanto()
 
 </div>
 
-### 👨🏿‍💻 DevOps & Cloud
+###  DevOps & Cloud
 
 <div align="center">
 
@@ -123,7 +123,7 @@ me = MaliSanto()
 
 </div>
 
-### 📊 Data & Analytics
+###  Data & Analytics
 
 <div align="center">
 
@@ -195,21 +195,9 @@ $ cat education.log
 
 ---
 
-## 🏆 `LEADERSHIP.exe`
 
-```
-╔════════════════════════════════════════════════════════╗
-║  Chairperson :: Sonke Labs (ICT Student Society)      ║
-║                 Jan 2023 – Dec 2023                   ║
-╠════════════════════════════════════════════════════════╣
-║  Chairperson :: Disability Ambassadors Society        ║
-║                 Sep 2021 – Dec 2022                   ║
-╚════════════════════════════════════════════════════════╝
-```
 
----
-
-## 📡 `CONNECT.link`
+##  `CONNECT.link`
 
 <div align="center">
 
