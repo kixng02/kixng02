@@ -97,9 +97,8 @@ me = Developer()
 -->
 
 <!-- After setup, uncomment this line and delete the comment block above: -->
-<!-- <img src="https://raw.githubusercontent.com/kixng02/kixng02/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> -->
+ <img src="https://raw.githubusercontent.com/kixng02/kixng02/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/> 
 
-> ⚙️ **3D Graph:** Follow the setup instructions in the comment above, then uncomment the image line.
 
 </div>
 
