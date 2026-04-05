@@ -9,9 +9,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  SYSTEM  :: kixng02 | FULL STACK DEVELOPER | ONLINE  ████████  ║
-║  STACK   :: PERN | Django | Laravel | Java | C# | Docker | K8s ║
-║  STATUS  :: Building robust, user-centric software solutions    ║
+║  SYSTEM  :: kixng02 | FULL STACK DEVELOPER | ONLINE              ║
+║  STACK   :: PERN | Django | Laravel | Java | C# | Docker | K8s   ║
+║  STATUS  :: Building robust, user-centric software solutions     ║ 
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -70,8 +70,7 @@ me = MaliSanto()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kixng02/kixng02/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/kixng02/kixng02/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 ---
