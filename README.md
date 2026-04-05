@@ -150,7 +150,7 @@ me = MaliSanto()
 
 ---
 
-## 💼 `WORK_HISTORY.log`
+##  `WORK_HISTORY.log`
 
 ```bash
 $ cat experience.log
@@ -175,7 +175,7 @@ $ cat experience.log
 
 ---
 
-## 🎓 `EDUCATION.sys`
+## `EDUCATION.sys`
 
 ```bash
 $ cat education.log
