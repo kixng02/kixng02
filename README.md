@@ -25,7 +25,7 @@ class MaliSanto:
         self.name        = "Mali Santo"
         self.alias       = "kixng02"
         self.role        = "Full Stack Developer & IT Tutor"
-        self.location    = "South Africa 🇿🇦"
+        self.location    = "South Africa"
         self.education   = "PG Diploma in ICT: Applications Development"
         self.university  = "University of Mpumalanga"
         self.experience  = [
