@@ -51,6 +51,7 @@ me = MaliSanto()
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kixng02&show_icons=true&theme=cyberpunk&bg_color=0D0D0D&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&border_color=00F5FF&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kixng02&layout=donut&theme=cyberpunk&bg_color=0D0D0D&title_color=00F5FF&text_color=FFFFFF&border_color=FF00FF&border_radius=10&langs_count=8&count_private=true" height="180"/>
+
 </div>
 
 ---
