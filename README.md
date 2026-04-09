@@ -1,18 +1,18 @@
 <!-- CYBERPUNK HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+MALI+SANTO+%2F%2F+FULL+STACK+DEVELOPER;%3E+TUTOR+%7C+BUILDER+%7C+PROBLEM+SOLVER;%3E+TURNING+COFFEE+INTO+SCALABLE+CODE...;%3E+OOP+%7C+TDD+%7C+BDD+%7C+SDLC+%2F%2F+ONLINE;%3E+FROM+ZA+%F0%9F%87%BF%F0%9F%87%A6+TO+THE+WORLD.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+MALI+SANTO+%2F%2F+FULL+STACK+DEVELOPER;%3E+%7C+BUILDER+%7C+PROBLEM+SOLVER;%3E+TURNING+COFFEE+INTO+SCALABLE+CODE...;%3E+OOP+%7C+TDD+%7C+BDD+%7C+SDLC+%2F%2F+ONLINE;%3E+FROM+ZA+%F0%9F%87%BF%F0%9F%87%A6+TO+THE+WORLD.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  SYSTEM  :: kixng02 | FULL STACK DEVELOPER | ONLINE              ║
-║  STACK   :: PERN | Django | Laravel | Java | C# | Docker | K8s   ║
-║  STATUS  :: Building robust, user-centric software solutions     ║ 
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM  :: FULL STACK DEVELOPER                        ║
+║  STACK   :: PERN/MERN | Django | PHP/Laravel | Java | ASP.NET | Docker | K8s ║
+║  STATUS  :: Building robust, user-centric software solutions                 ║ 
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -33,7 +33,7 @@ class MaliSanto:
             "Graduate Developer @ Nedbank",
             "Freelance Dev @ Fiverr (2020–2023)",
         ]
-        self.superpower  = "Cerebral palsy gave me resilience. Code gives me range."
+        self.superpower  = "I turn coffee into scalable bug free code."
         self.methodology = ["OOP", "TDD", "BDD", "Agile", "Waterfall", "SDLC", "Microservices"]
 
     def mission(self):
@@ -135,7 +135,7 @@ me = MaliSanto()
 
 </div>
 
-### 🛠️ Tools & Methods
+### Tools & Methods
 
 <div align="center">
 
@@ -186,25 +186,13 @@ $ cat education.log
             ├── Diploma:              ICT Applications Development
             └── Diploma:              Nature Conservation
 
-[CERTS]     Cloud:  GCP Associate Cloud Engineer | Kubernetes (Coursera)
+[CERTS]     Cloud:  GCP Associate Cloud Engineer (Codecademy) | Kubernetes (Coursera)
             Code:   Python | Java | JavaScript ES6 | ASP.NET | TDD
             Data:   IBM Data Engineering | IBM Data Analysis with Python
             AI:     RAG Applications (Codecademy)
             Design: Graphic Elements of Design (Coursera)
 ```
 
----
-
-
-
-##  `CONNECT.link`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D0D0D)](https://github.com/kixng02)
-[![Email](https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF00FF&labelColor=0D0D0D)](mailto:santomalibongwe@gmail.com)
-
-</div>
 
 ---
 
