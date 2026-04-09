@@ -44,7 +44,7 @@ me = MaliSanto()
 
 ---
 
-## `STATS_UPLINK.sys`
+## `STATS_UPLINK.sys`(stats from only public repos)
 
 <div align="center">
 
