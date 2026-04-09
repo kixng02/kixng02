@@ -1,7 +1,7 @@
 <!-- CYBERPUNK HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+MALI+SANTO+%2F%2F+FULL+STACK+DEVELOPER;%3E+%7C+BUILDER+%7C+PROBLEM+SOLVER;%3E+TURNING+COFFEE+INTO+SCALABLE+CODE...;%3E+OOP+%7C+TDD+%7C+BDD+%7C+SDLC+%2F%2F+ONLINE;%3E+FROM+ZA+%F0%9F%87%BF%F0%9F%87%A6+TO+THE+WORLD.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+MALI+SANTO+%2F%2F+FULL+STACK+DEVELOPER;%3E+%7C+BUILDER+%7C+PROBLEM+SOLVER;%3E+...;%3E+OOP+%7C+TDD+%7C+BDD+%7C+SDLC+%2F%2F+F0%9F%87%BF%F0%9F%87%A6+)](https://git.io/typing-svg)
 
 </div>
 
