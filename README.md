@@ -9,7 +9,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM  :: FULL STACK DEVELOPER                                             ║
+║  SYSTEM  :: FULL STACK DEVELOPER | Automation Specialist                     ║
 ║  STACK   :: PERN/MERN | Django | PHP/Laravel | Java | ASP.NET | Docker | K8s ║
 ║  STATUS  :: Building robust, user-centric software solutions                 ║ 
 ╚══════════════════════════════════════════════════════════════════════════════╝
