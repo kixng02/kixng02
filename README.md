@@ -200,7 +200,7 @@ $ cat education.log
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   "RESILIENCE IS MY FRAMEWORK. CODE IS MY WEAPON."     ║
+║   "RESILIENCE IS MY FRAMEWORK. CODE IS MY WEAPON."       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
